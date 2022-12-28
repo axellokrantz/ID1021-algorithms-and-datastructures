@@ -2,7 +2,7 @@
 ## Course contents
 Basic algorithm analysis:
 
-Simpler analysis with respect to the resource needs of algorithms in the form of time and memory.
+Simpler analysis with respect to the resource needs of algorithms in the form of time and memory.<br>
 Fundamental algorithms:
 
 * Simple numerical algorithms

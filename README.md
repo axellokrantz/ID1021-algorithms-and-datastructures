@@ -1,9 +1,12 @@
 # ID1021-Algorithms-and-Datastructures
 ## Course contents
 
+Basic algorithm analysis:
+
+* Simple numerical algorithms.<br>
+
 Fundamental algorithms:
 
-* Simple numerical algorithms.
 * Sequential and binary search algorithms.
 * Depth first search and Width first search.
 * Sorting algorithms: selection sorting, insertion sorting, Quicksort, heapsort, mergesort.
